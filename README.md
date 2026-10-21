@@ -1,11 +1,11 @@
  <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:312E81,50:6D28D9,100:2563EB&text=Hossam&fontSize=58&fontColor=FFFFFF&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Building%20Real%20Products&descSize=16&descAlignY=70&animation=fadeIn" width="100%" alt="Hossam — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:312E81,50:6D28D9,100:2563EB&text=Hossam&fontSize=58&fontColor=FFFFFF&fontAlignY=45&desc=Full-Stack%20%26%20Android%20Developer&descSize=18&descAlignY=70&animation=fadeIn" width="100%" alt="Hossam — Full-Stack and Android Developer" />
 
   <br />
 
   <a href="https://github.com/hossamolwan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Products+That+Solve+Real+Problems;Clean+Code+%7C+Modern+UI%2FUX;Always+Learning.+Always+Building." alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Native+Android+%26+Flutter+Development;Building+Real-World+Products;Clean+Code+%7C+Modern+UI%2FUX" alt="Developer introduction" />
   </a>
 
   <br />
@@ -20,35 +20,40 @@
 
 ## 👋 About Me
 
-I'm **Hossam**, a Full-Stack Developer passionate about building real-world products, solving practical problems, and turning ideas into functional applications.
+I'm **Hossam**, a Full-Stack Developer working across web and mobile development, including Native Android and Flutter applications.
 
-I enjoy working across the stack, from designing responsive user interfaces to implementing backend logic, database integrations, and application workflows.
+I enjoy turning ideas into practical software products, building responsive user interfaces, developing backend services, and integrating databases and application workflows.
 
-- 🚀 Building products with a focus on usability and maintainability.
-- 💻 Interested in clean architecture, clean code, and modern UI/UX.
-- 🧩 Enjoy solving real problems through software.
-- 📚 Continuously learning and improving my development skills.
-- 🤝 Open to interesting projects, freelance opportunities, and collaboration.
+- 🚀 Building real-world products that solve practical problems.
+- 🌐 Developing modern web applications and backend services.
+- 📱 Building Native Android applications with Kotlin and Java.
+- 💙 Developing cross-platform mobile applications with Flutter.
+- 🧩 Focused on clean code, maintainability, and modern UI/UX.
+- 🤝 Open to freelance projects, professional opportunities, and collaboration.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-  <h4>Frontend</h4>
+  <h4>Frontend Development</h4>
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" alt="Next.js, React, TypeScript, and Tailwind CSS" />
 
   <h4>Backend & Database</h4>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" alt="Node.js, Express, and Firebase" />
 
-  <h4>Mobile Development</h4>
+  <h4>Native Android Development</h4>
 
-  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile development technologies" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" alt="Kotlin, Java, and Android Studio" />
 
-  <h4>Tools</h4>
+  <h4>Cross-Platform Mobile Development</h4>
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart" />
+
+  <h4>Tools & Workflow</h4>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
 
 </div>
 
@@ -56,32 +61,28 @@ I enjoy working across the stack, from designing responsive user interfaces to i
 
 ### 01. LearnHubz
 
-**An online learning platform**
+**An Online Learning Platform**
 
-LearnHubz is an educational platform project focused on connecting students and teachers through online lessons.
+LearnHubz is an educational platform project designed to connect students and teachers through online lessons.
 
-- 👨‍🏫 Teacher and student experiences.
+- 👨‍🏫 Dedicated experiences for teachers and students.
 - 📚 Lesson discovery and booking workflows.
 - 💳 Payment integration and transaction workflows.
 - 📊 Role-based dashboards and lesson management.
 
-**Focus:** Educational technology, full-stack development, and real-world application workflows.
-
-<!-- Add the actual LearnHubz repository URL and live demo here when available. -->
+**Focus:** Full-stack development, educational technology, and application workflows.
 
 ### 02. Orbit Dash
 
-**A mobile arcade game**
+**A Mobile Arcade Game**
 
-Orbit Dash is a Flutter-based arcade game project focused on gameplay, interaction, and player feedback.
+Orbit Dash is a Flutter-based mobile arcade game project focused on interactive gameplay and player feedback.
 
 - 🎮 Mobile game development with Flutter.
 - ✨ Interactive feedback and visual effects.
 - 🧩 Gameplay implementation and iterative improvements.
 
-**Focus:** Mobile development, game mechanics, and user experience.
-
-<!-- Add the actual Orbit Dash repository URL and gameplay demo here. -->
+**Focus:** Flutter, mobile development, and user experience.
 
 ## 📊 GitHub Statistics
 
@@ -112,13 +113,6 @@ I'm interested in connecting with developers, founders, and teams building usefu
   <a href="https://github.com/hossamolwan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <!-- Replace with your actual LinkedIn profile URL. -->
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <!-- Add your portfolio or professional email when ready. -->
 
 </div>
 
