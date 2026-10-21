@@ -4,13 +4,13 @@
 
   <br />
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hossamolwan">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Products+That+Solve+Real+Problems;Clean+Code+%7C+Modern+UI%2FUX;Always+Learning.+Always+Building." alt="Typing introduction" />
   </a>
 
   <br />
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/hossamolwan?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
   </a>
 
@@ -87,17 +87,17 @@ Orbit Dash is a Flutter-based arcade game project focused on gameplay, interacti
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hossamolwan">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=60A5FA&rank_icon=github" alt="GitHub statistics" />
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hossamolwan">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
   </a>
 
   <br />
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hossamolwan">
     <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
   </a>
 
@@ -109,7 +109,7 @@ I'm interested in connecting with developers, founders, and teams building usefu
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/hossamolwan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
