@@ -1,6 +1,12 @@
  <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:312E81,50:6D28D9,100:2563EB&text=Hossam&fontSize=58&fontColor=FFFFFF&fontAlignY=45&desc=Full-Stack%20%26%20Android%20Developer&descSize=18&descAlignY=70&animation=fadeIn" width="100%" alt="Hossam — Full-Stack and Android Developer" />
+<div align="center">
+  <img
+    src="./banner.svg"
+    width="100%"
+    alt="Hossam — Full-Stack and Android Developer"
+  />
+</div>
 
   <br />
 
