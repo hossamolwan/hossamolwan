@@ -88,17 +88,17 @@ Orbit Dash is a Flutter-based arcade game project focused on gameplay, interacti
 <div align="center">
 
   <a href="https://github.com/hossamolwan">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=60A5FA&rank_icon=github" alt="GitHub statistics" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hossamolwan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=60A5FA&rank_icon=github" alt="GitHub statistics" />
   </a>
 
   <a href="https://github.com/hossamolwan">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamolwan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
   </a>
 
   <br />
 
   <a href="https://github.com/hossamolwan">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=hossamolwan&theme=transparent&hide_border=true&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
   </a>
 
 </div>
